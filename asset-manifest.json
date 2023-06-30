@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/react-gh-pages/static/css/main.74acce42.css",
-    "main.js": "/react-gh-pages/static/js/main.a2c5570d.js",
-    "index.html": "/react-gh-pages/index.html",
-    "main.74acce42.css.map": "/react-gh-pages/static/css/main.74acce42.css.map",
-    "main.a2c5570d.js.map": "/react-gh-pages/static/js/main.a2c5570d.js.map"
+    "main.css": "/TicTacToe/static/css/main.74acce42.css",
+    "main.js": "/TicTacToe/static/js/main.a2c5570d.js",
+    "index.html": "/TicTacToe/index.html",
+    "main.74acce42.css.map": "/TicTacToe/static/css/main.74acce42.css.map",
+    "main.a2c5570d.js.map": "/TicTacToe/static/js/main.a2c5570d.js.map"
   },
   "entrypoints": [
     "static/css/main.74acce42.css",
